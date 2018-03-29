@@ -1,9 +1,9 @@
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\bin\Debug\WebAppNHibernateTest.BLL.dll
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\bin\Debug\WebAppNHibernateTest.BLL.pdb
-D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\bin\Debug\WebAppNHibernateTest.BLL.dll.CodeAnalysisLog.xml
-D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\bin\Debug\WebAppNHibernateTest.BLL.dll.lastcodeanalysissucceeded
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\bin\Debug\Iesi.Collections.dll
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\bin\Debug\NHibernate.dll
+D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\bin\Debug\WebAppNHibernateTest.Model.dll
+D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\bin\Debug\WebAppNHibernateTest.Model.pdb
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\bin\Debug\Iesi.Collections.xml
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\bin\Debug\NHibernate.xml
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\obj\Debug\WebAppNHibernateTest.BLL.csprojResolveAssemblyReference.cache
