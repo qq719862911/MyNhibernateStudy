@@ -40,5 +40,7 @@ namespace WebAppNHibernateTest.Model
             get { return weight; }
             set { weight = value; }
         }
+
+      
     }
 }

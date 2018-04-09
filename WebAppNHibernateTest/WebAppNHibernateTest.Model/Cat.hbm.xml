@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
     namespace="WebAppNHibernateTest.Model" assembly="WebAppNHibernateTest.Model">
-
   <class name="Cat" table="Cat">
     <id name="Id">
       <column name="CatId" sql-type="char(32)" not-null="true"/>
@@ -14,6 +13,7 @@
     </property>
     <property name="Sex" />
     <property name="Weight" />
+   
   </class>
 
 </hibernate-mapping>

@@ -29,5 +29,7 @@ namespace WebAppNHibernateTest.Web.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<WebAppNHibernateTest.Model.Hosts> Hosts { get; set; }
     }
 }

@@ -2,3 +2,4 @@ D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Model\bin\D
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Model\bin\Debug\WebAppNHibernateTest.Model.pdb
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Model\obj\Debug\WebAppNHibernateTest.Model.dll
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Model\obj\Debug\WebAppNHibernateTest.Model.pdb
+D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Model\obj\Debug\WebAppNHibernateTest.Model.csprojResolveAssemblyReference.cache
