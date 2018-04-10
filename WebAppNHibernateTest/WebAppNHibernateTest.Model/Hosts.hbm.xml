@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+    namespace="WebAppNHibernateTest.Model" assembly="WebAppNHibernateTest.Model">
+  <class name="Hosts" table="Hosts">
+    <id name="Id">
+      <column name="Id" sql-type="char(32)" not-null="true"/>
+      <generator class="uuid.hex" />
+    </id>
+
+    <!-- A cat has to have a name, but it shouldn' be too long. -->
+    <property name="Name">
+      <column name="Name" length="16" not-null="true" />
+    </property>
+    <property name="Age">
+      <column name="Age" not-null="true" />
+    </property>
+    <!--一对多关系:一个主人有一条或多条狗-->
+    <!--子类负责维护关联关系 inverse=“true” FK_Dogs_Hosts-->
+    <set name="Dogs" table="Dogs" generic="true" inverse="true">
+      <key column="Id" foreign-key="FK_Dogs_Hosts"></key>
+      <one-to-many class="Dogs"/>
+    </set>
+  </class>
+
+</hibernate-mapping>
