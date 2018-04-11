@@ -1,5 +1,7 @@
+D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Model\bin\Debug\Cat.hbm.xml
+D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Model\bin\Debug\Dogs.hbm.xml
+D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Model\bin\Debug\Hosts.hbm.xml
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Model\bin\Debug\WebAppNHibernateTest.Model.dll
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Model\bin\Debug\WebAppNHibernateTest.Model.pdb
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Model\obj\Debug\WebAppNHibernateTest.Model.dll
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Model\obj\Debug\WebAppNHibernateTest.Model.pdb
-D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Model\obj\Debug\WebAppNHibernateTest.Model.csprojResolveAssemblyReference.cache

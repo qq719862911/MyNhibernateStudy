@@ -8,29 +8,24 @@ namespace WebAppNHibernateTest.Model
 {
   public class Hosts
     {
-        private string id;
-        private string name;
-        private string age;
+     
 
-        public Hosts()
-        {
-        }
 
         public virtual string Id
         {
-            get { return id; }
-            set { id = value; }
+            get;
+            set;
         }
 
         public virtual string Name
         {
-            get { return name; }
-            set { name = value; }
+            get;
+            set;
         }
         public virtual string Age
         {
-            get { return age; }
-            set { age = value; }
+            get;
+            set;
         }
         /// <summary>
         /// 一个主人有一条或者多条狗

@@ -1,3 +1,6 @@
+D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\bin\Debug\Cat.hbm.xml
+D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\bin\Debug\Dogs.hbm.xml
+D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\bin\Debug\Hosts.hbm.xml
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\bin\Debug\WebAppNHibernateTest.BLL.dll
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\bin\Debug\WebAppNHibernateTest.BLL.pdb
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.BLL\bin\Debug\Iesi.Collections.dll

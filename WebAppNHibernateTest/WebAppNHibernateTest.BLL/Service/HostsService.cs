@@ -59,7 +59,7 @@ namespace WebAppNHibernateTest.BLL.Service
             using (ISession session = NHibernateHelper.GetCurrentSession())
             {
                 //select c from Hosts as c
-                IQuery query = session.CreateQuery("select c from Hosts as c");
+                IQuery query = session.CreateQuery("from Hosts");
                 var lists = query.List<Hosts>();
                 return lists;
             }

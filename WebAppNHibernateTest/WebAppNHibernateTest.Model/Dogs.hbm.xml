@@ -1,20 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
-    namespace="WebAppNHibernateTest.Model" assembly="WebAppNHibernateTest.Model">
-  <class name="Dogs" table="Dogs">
+   namespace="WebAppNHibernateTest" assembly="WebAppNHibernateTest">
+  <class name="WebAppNHibernateTest.Model.Dogs,WebAppNHibernateTest" table="Dogs">
     <id name="Id">
       <column name="Id" sql-type="char(32)" not-null="true"/>
       <generator class="uuid.hex" />
     </id>
 
     <!-- A cat has to have a name, but it shouldn' be too long. -->
-    <property name="Name">
-      <column name="Name" length="16" not-null="true" />
-    </property>
+    <property name="Name" />
+    <property name="Age" />
   
     <!--多对一关系：Dogs属于一个Hosts-->
-    <many-to-one  name="Hosts" column="Id" not-null="true"
-      class="Hosts"
+    <many-to-one  name="Hosts" column="Hosts" not-null="true"
+      class="WebAppNHibernateTest.Model.Hosts,WebAppNHibernateTest"
       foreign-key="FK_Dogs_Hosts" />
   </class>
 

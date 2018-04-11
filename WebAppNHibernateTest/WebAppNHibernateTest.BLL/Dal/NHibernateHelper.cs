@@ -1,12 +1,14 @@
 ﻿using NHibernate;
 using NHibernate.Cfg;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Web;
+using WebAppNHibernateTest.Model;
 
 namespace WebAppNHibernateTest.BLL.Dal
 {
@@ -18,11 +20,14 @@ namespace WebAppNHibernateTest.BLL.Dal
         static NHibernateHelper()
         {
             // var path = ConfigurationManager.AppSettings["hibernatecfgxml"] + "Config/hibernate.cfg.xml";
-            var path = HttpContext.Current.Server.MapPath("/Config/hibernate.cfg.xml");
+            // var path = HttpContext.Current.Server.MapPath("/Config/hibernate.cfg.xml");
+            //  var config = new NHibernate.Cfg.Configuration().Configure(path);
+
+            string path = System.Web.HttpContext.Current.Server.MapPath("Config/hibernate.cfg.xml");
             var config = new NHibernate.Cfg.Configuration().Configure(path);
             sessionFactory = config.BuildSessionFactory();
         }
-
+        
         public static ISession GetCurrentSession()
         {
             HttpContext context = HttpContext.Current;

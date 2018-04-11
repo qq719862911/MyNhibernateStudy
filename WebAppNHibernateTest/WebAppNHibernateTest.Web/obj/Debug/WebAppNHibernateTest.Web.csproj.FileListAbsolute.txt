@@ -11,6 +11,10 @@ D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Web\bin\ros
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Web\bin\roslyn\vbc.exe
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Web\bin\roslyn\VBCSCompiler.exe
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Web\bin\Cat.hbm.xml
+D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Web\bin\Dogs.hbm.xml
+D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Web\bin\Hosts.hbm.xml
+D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Web\bin\Config\hibernate.cfg.xml
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Web\bin\WebAppNHibernateTest.Web.dll.config
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Web\bin\WebAppNHibernateTest.Web.dll
 D:\mygit\MyNhibernateStudy\WebAppNHibernateTest\WebAppNHibernateTest.Web\bin\WebAppNHibernateTest.Web.pdb

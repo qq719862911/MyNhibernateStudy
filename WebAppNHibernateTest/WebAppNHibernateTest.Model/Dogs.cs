@@ -8,25 +8,17 @@ namespace WebAppNHibernateTest.Model
 {
     public class Dogs
     {
-        private string id;
-        private string name;
-        private char sex;
-        private float weight;
-
-        public Dogs()
-        {
-        }
 
         public virtual string Id
         {
-            get { return id; }
-            set { id = value; }
+            get;
+            set;
         }
 
         public virtual string Name
         {
-            get { return name; }
-            set { name = value; }
+            get;
+            set;
         }
 
         /// <summary>
